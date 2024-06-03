@@ -6,12 +6,6 @@
 </div>
 <!--END_SECTION:header-->
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
-</p>
-
 <br/>
 <br/>
 
@@ -44,14 +38,3 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 - Modularizar projetos com maior propriedade
 - Como organizar pensamento lógico e funcional
 - Base para organizar projetos
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
